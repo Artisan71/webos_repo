@@ -19,7 +19,7 @@
         "iconUri": "https://webosappclub.github.io/apps/com.ottplay.app/icon.png",
         "sourceUrl": "http://ott-play.com/",
         "rootRequired": false,
-        "ipkUrl": "https://webosappclub.github.io/apps/com.ottplay.app/com.ottplay.app_0.2.2_all.ipk",
+        "ipkUrl": "https://github.com/Artisan71/webos_repo/raw/refs/heads/main/com.nizovn.qtwebbrowser_1.0.2_armv7.ipk",
         "ipkHash": {
           "sha256": "edc75d1b0606f81c3b930457643b2f0c314c0e64d536390b4019b30d45735199"
         },
