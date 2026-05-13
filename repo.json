@@ -21,7 +21,7 @@
         "rootRequired": false,
         "ipkUrl": "https://github.com/Artisan71/webos_repo/raw/refs/heads/main/com.nizovn.qtwebbrowser_1.0.2_armv7.ipk",
         "ipkHash": {
-          "sha256": "76d8db6f89b9ea98ab4a3b9a8a5e126b25e8b0305cc7271700788b214435bdac"
+          "sha256": "d488b00a6d32d9a9051912f1ad185ea56da37b84cc55b52c1b0ce3bd77f21443"
         },
         "ipkSize": 329544
       },
