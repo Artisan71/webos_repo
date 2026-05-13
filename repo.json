@@ -1,1 +1,32 @@
-hi
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "com.ottplay.app",
+      "title": "AMAZING BROSWER YEABHHH",
+      "iconUri": "https://webosappclub.github.io/apps/com.ottplay.app/icon.png",
+      "manifest": {
+        "id": "com.ottplay.app",
+        "version": "0.2.2",
+        "type": "web",
+        "title": "Ott-play",
+        "appDescription": "Ott-play by Alex IPTV player",
+        "iconUri": "https://webosappclub.github.io/apps/com.ottplay.app/icon.png",
+        "sourceUrl": "http://ott-play.com/",
+        "rootRequired": false,
+        "ipkUrl": "https://webosappclub.github.io/apps/com.ottplay.app/com.ottplay.app_0.2.2_all.ipk",
+        "ipkHash": {
+          "sha256": "edc75d1b0606f81c3b930457643b2f0c314c0e64d536390b4019b30d45735199"
+        },
+        "ipkSize": 329544
+      },
+      "shortDescription": "IPTV player",
+      "fullDescriptionUrl": "https://webosappclub.github.io/apps/com.ottplay.app/index.html"
+    }
+  ]
+}
